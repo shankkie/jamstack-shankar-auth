@@ -1,5 +1,7 @@
 import React from 'react';
 import { Link } from 'gatsby';
+
+// must to include in context to the roow with app URL
 import { IdentityContextProvider} from 'react-netlify-identity-widget'
 
 import './layout.css';
